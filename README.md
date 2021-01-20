@@ -1,4 +1,3 @@
-
 A sample website to <em>reinforce</em> <strong>HTML</strong> learning.
 <br>
 <blockquote> 
